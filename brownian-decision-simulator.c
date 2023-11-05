@@ -4,7 +4,9 @@
 #include <math.h>
 
 #define STEPS 1000
-
+//Created with the help of ChatGPT (GPT-4)
+//(C)Tsubasa Kato 114/2023 - Inspire Search Corporation
+//Website: https://www.inspiresearch.io/en
 // Assuming these are global variables that would be dynamically set in a real application.
 double difficulty = 0.5;       // Range from 0 (easy) to 1 (hard)
 double foreseen_future = 0.7;  // Range from 0 (bad) to 1 (good)
